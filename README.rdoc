@@ -1,0 +1,22 @@
+= PaginationFu
+
+Pagination that is fast, simple and fun!
+
+== Installation
+
+There are two ways to start using pagination_fu.
+The Gem:
+
+	gem install grzegorzkazulak-pagination_fu --source http://gems.github.com/
+	
+or the plugin
+
+	script/plugin install git://github.com/grzegorzkazulak/pagination_fu.git
+	
+That's it. You are ready to roll.
+
+== Example usage
+
+	TODO
+
+Copyright (c) 2009 [Grzegorz Kazulak], released under the MIT license
