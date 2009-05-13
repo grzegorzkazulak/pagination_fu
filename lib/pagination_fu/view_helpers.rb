@@ -4,6 +4,8 @@ module PaginationFu
     # Default options
     @@fu_options = {
         :links_wrapper => 'li',
+        :links_class => nil,
+        :links_current_class => 'selected',
         :container => 'ul',
         :param_name => :page
       }  
@@ -12,5 +14,14 @@ module PaginationFu
     def pagination_fu(collection = nil, options = {})
       
     end
+    
+    def previous_label
+      
+    end
+    
+    def next_label
+      
+    end 
+      
   end
 end
