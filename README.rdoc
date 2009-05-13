@@ -17,6 +17,6 @@ That's it. You are ready to roll.
 
 == Example usage
 
-	TODO
+TODO
 
 Copyright (c) 2009 [Grzegorz Kazulak], released under the MIT license
